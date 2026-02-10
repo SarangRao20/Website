@@ -5,6 +5,12 @@ import Image from "next/image";
 
 const partners = [
   {
+    name: "Foss Hack 2026",
+    subtext: "FOSS Hack",
+    logo: "/logos/FOSSHACK.png",
+    url: "https://fossunited.org/fosshack"
+  },
+  {
     name: "Social Winter of Code Season 6",
     subtext: "SWOC",
     logo: "/logos/swoc.jpg",
